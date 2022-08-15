@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: DELL
+Build-Jdk: 17.0.3
+Implementation-Title: TaskPoc
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.test.excersise
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
